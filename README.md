@@ -1,5 +1,5 @@
-# IntroductionToHandlebars
-Repository for my talk at jsChi()
+# Introduction to Handlebars.js
+Repository for my talk at *jsChi()* on May 19th, 2015
 
 ##Pre-requirements
 Hi there! This *Introduction to Handlebars* is designed to be followed along with. The entire talk will reference specific points in this repository. If you want to follow along, please perform the following steps:
@@ -9,3 +9,7 @@ Hi there! This *Introduction to Handlebars* is designed to be followed along wit
     - Mac and Linux users will just need to open the terminal
     - Inside of your terminal/console, run the following command to see what version of Node you're running:
     - `node -v` 
+  3. Now, let's install **Express** and **Handlebars**! Run the following commands in your terminal:
+    - `npm install -g express`
+    - `npm install -g handlebars`
+  4. If everything worked you're all set! If something did not work correctly, please create a <a href="https://github.com/code-for-coffee/IntroductionToHandlebars/issues/new">new issue</a> in this repository and I'll do my best to assist. 
