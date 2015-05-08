@@ -13,3 +13,5 @@ Hi there! This *Introduction to Handlebars* is designed to be followed along wit
     - `npm install -g express`
     - `npm install -g handlebars`
   4. If everything worked you're all set! If something did not work correctly, please create a <a href="https://github.com/code-for-coffee/IntroductionToHandlebars/issues/new">new issue</a> in this repository and I'll do my best to assist. 
+
+<h2>All set? Check out the <a href="https://github.com/code-for-coffee/IntroductionToHandlebars/blob/master/Outline.md">talk outline</a>!</h2>
