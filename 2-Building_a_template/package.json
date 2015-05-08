@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/code-for-coffee/IntroductionToHandlebars/issues"
   },
-  "homepage": "https://github.com/code-for-coffee/IntroductionToHandlebars"
+  "homepage": "https://github.com/code-for-coffee/IntroductionToHandlebars",
+  "dependencies": {
+    "express": "^4.12.3",
+    "handlebars": "^3.0.3"
+  }
 }
