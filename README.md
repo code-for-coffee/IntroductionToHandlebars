@@ -1,5 +1,5 @@
 # Introduction to Handlebars.js
-Repository for my talk at *jsChi()* on May 19th, 2015
+Repository for my talk at *js.chi()* on May 19th, 2015
 
 ##Pre-requirements
 Hi there! This *Introduction to Handlebars* is designed to be followed along with. The entire talk will reference specific points in this repository. If you want to follow along, please perform the following steps:
