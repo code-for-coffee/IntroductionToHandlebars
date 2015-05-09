@@ -8,9 +8,10 @@
 ### Introduction
   - I'll discuss Who I am, what I do, and why I'm here today!
   - I'l mention that you should help your partners out if they run into problems - teamwork is key!
+  - So, why are templates great? 
   - Next, I'll talk about this Github repository and how it is designed to be used.
 
-### An introduction to Handlebars.js
+### An Introduction to Handlebars.js
 Topics that will be discussed:
   - Discuss the Handlebars compilation pipeline.
   - Why the runtime library exists and how much space it saves.
