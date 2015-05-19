@@ -1,1 +1,8 @@
 /* main.css */
+body {
+  font-size: 62.5%;
+  font-family: "Arial", sans-serif;
+}
+#container {
+  font-size: 2rem;
+}
