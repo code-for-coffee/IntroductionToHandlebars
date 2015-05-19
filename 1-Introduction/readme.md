@@ -6,4 +6,4 @@ We're going to talk about templates, why they're awesome, what Handlebars.js is,
 
 
 
-### >> <a href='https://github.com/code-for-coffee/IntroductionToHandlebars/blob/master/1-Introduction/1_1.md'>Next</a>
+### >> <a href='https://github.com/code-for-coffee/IntroductionToHandlebars/blob/master/1-Introduction/1_0.md'>Next</a>
