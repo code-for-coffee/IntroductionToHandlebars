@@ -1,0 +1,36 @@
+<!DOCTYPE html lang="en">
+<html>
+<head>
+	<title>Introduction to Handlebars</title>
+	<script type="text/javascript" src="/Scripts/jquery.min.js"></script>
+	<script type="text/javascript" src="/Scripts/handlebars-runtime.min.js"></script>
+	<script type="text/javascript" src="/Scripts/app.js"></script>
+	<link rel="stylesheet" href="/Style/main.css">
+</head>
+<body>
+	<div id="user-form">
+		<div id="name"></div>
+		<button id="submit">Submit</button>
+	</div>
+</body>
+<script type="text/javascript">
+$(document).ready(function() {
+
+	var data = {
+		type: "text",
+		placeholder: "Some Placeholder text",
+		value: "James"
+	};
+
+	$('#name').html(Handlebars.templates['activeInput.hbs'](data));
+	
+	$('#submit').on('click', function(event) {
+
+		data.value = $('input').val();
+		$('#name').html(Handlebars.templates['inactiveInput.hbs'](data));
+
+	});
+
+});
+</script>
+</html>
