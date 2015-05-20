@@ -1,8 +1,6 @@
 # Introduction to Handlebars.js
 Repository for my talk at *js.chi()* on May 19th, 2015
 
-## https://github.com/code-for-coffee/IntroductionToHandlebars/
-
 ##Pre-requirements
 Hi there! This *Introduction to Handlebars* is designed to be followed along with. The entire talk will reference specific points in this repository. If you want to follow along, please perform the following steps:
   1. To run the code, you will need **<a href="https://nodejs.org/download/">Node.js</a>**
