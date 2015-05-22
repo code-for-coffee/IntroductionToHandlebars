@@ -10,6 +10,7 @@
 - Reference: http://handlebarsjs.com/reference.html
 
 **How to use Handlebars with ASP.NET**: https://gist.github.com/jpsullivan/5365684
+
 **BundleTransformer's Handlebars Bundle**: https://www.nuget.org/packages/BundleTransformer.Handlebars/
 
 **Rails Dependent Gem**: https://github.com/leshill/handlebars_assets
